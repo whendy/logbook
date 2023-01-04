@@ -84,7 +84,7 @@ h6, .h6 {
   color: #fff;
   border-color: #ce8460;
 }
-.btn-primary:active, .btn-primary:hover, .btn-primary.focus, .btn-primary.active {
+.btn-primary:active, .btn-primary:hover, .btn-primary.focus, .btn-primary:focus, .btn-primary.active {
   background: #ce8460 !important;
   border-color: #ce8460 !important;
 }
@@ -94,7 +94,7 @@ h6, .h6 {
   color: #696c6d;
   border-color: #ce8460;
 }
-.btn-outline-primary:active, .btn-outline-primary:hover, .btn-outline-primary.focus, .btn-outline-primary.active {
+.btn-outline-primary:active, .btn-outline-primary:hover, .btn-outline-primary.focus, .btn-outline-primary:focus, .btn-outline-primary.active {
   background: #ce8460 !important;
   border-color: #ce8460 !important;
   color: #fff;
@@ -105,7 +105,7 @@ h6, .h6 {
   color: #696c6d;
   border-color: #ddd;
 }
-.btn-outline-light:active, .btn-outline-light:hover, .btn-outline-light.focus, .btn-outline-light.active {
+.btn-outline-light:active, .btn-outline-light:hover, .btn-outline-light.focus, .btn-outline-light:focus, .btn-outline-light.active {
   background: #f0f0f0 !important;
   border-color: #ddd !important;
 }

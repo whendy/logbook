@@ -26,6 +26,7 @@
   &:active,
   &:hover,
   &.focus,
+  &:focus,
   &.active {
     background: $primary-color !important;
     border-color: $primary-color !important;
@@ -40,6 +41,7 @@
   &:active,
   &:hover,
   &.focus,
+  &:focus,
   &.active {
     background: $primary-color !important;
     border-color: $primary-color !important;
@@ -56,6 +58,7 @@
   &:active,
   &:hover,
   &.focus,
+  &:focus,
   &.active {
     background: $light !important;
     border-color: $border-color !important;
